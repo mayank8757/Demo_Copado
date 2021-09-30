@@ -12,6 +12,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Demo_Test_2__c</fullName>
+        <externalId>false</externalId>
+        <label>Demo Test 2</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Route_1__c</fullName>
         <defaultValue>false</defaultValue>
         <externalId>false</externalId>
