@@ -8,6 +8,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.First_Oct_Demo_Account__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Route_1__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -31,8 +36,16 @@
         <field>Account.Test__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Contact.First_Oct_Demo_Contact__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Formato de cuentas</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Contact-Formato de contactos</layout>
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
